@@ -14,9 +14,9 @@
     "url": "git://github.com/lxbrito/bromine-elements.git"
   },
   "dependencies": {
-    "bromide-cep-input": "lxbrito/bromine-cep-input#^1.0.0",
-    "bromide-cpf-input": "lxbrito/bromine-cpf-input#^1.0.0",
-    "bromide-cnpj-input": "lxbrito/bromine-cnpj-input#^1.0.0"
+    "bromine-cep-input": "lxbrito/bromine-cep-input#^1.0.0",
+    "bromine-cpf-input": "lxbrito/bromine-cpf-input#^1.0.0",
+    "bromine-cnpj-input": "lxbrito/bromine-cnpj-input#^1.0.0"
   },
   "homepage": "https://github.com/lxbrito/bromine-elements",
   "authors": [
