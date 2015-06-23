@@ -1,0 +1,33 @@
+{
+  "name": "bromide-elements",
+  "version": "1.0.0",
+  "description": "Bromide elements are a set of brasilian interest elements, like brazilian zip code input (cep). Also Bromide is BR.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "utility",
+    "user-input",
+    "selection"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lxbrito/bromide-elements.git"
+  },
+  "dependencies": {
+    "bromide-cep-input": "lxbrito/bromide-cep-input#^1.0.0",
+    "bromide-cpf-input": "lxbrito/bromide-cpf-input#^1.0.0",
+    "bromide-cnpj-input": "lxbrito/bromide-cnpj-input#^1.0.0"
+  },
+  "homepage": "https://github.com/lxbrito/bromide-elements",
+  "authors": [
+    "Leonardo Xavier de Brito"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
