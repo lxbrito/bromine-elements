@@ -1,7 +1,8 @@
 {
   "name": "bromine-elements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bromine elements are a set of brasilian interest elements, like brazilian zip code input (cep). Also Bromine is BR.",
+  "main": "bromine-elements.html",
   "keywords": [
     "web-components",
     "polymer",
