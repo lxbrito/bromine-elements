@@ -18,7 +18,7 @@
     "bromine-cep-input": "lxbrito/bromine-cep-input#^1.0.0",
     "bromine-cpf-input": "lxbrito/bromine-cpf-input#^1.0.0",
     "bromine-cnpj-input": "lxbrito/bromine-cnpj-input#^1.0.0",
-    "bromine-cnpj-input": "lxbrito/bromine-nit-input#^1.0.0"
+    "bromine-nit-input": "lxbrito/bromine-nit-input#^1.0.0"
   },
   "homepage": "https://github.com/lxbrito/bromine-elements",
   "authors": [
